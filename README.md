@@ -1,2 +1,2 @@
 # Artificial-Neural-Network
-Artificial Neural Network using Backpropagation 
+Artificial Neural Network 
